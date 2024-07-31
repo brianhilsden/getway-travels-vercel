@@ -1,9 +1,300 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "packages": [
+    {
+      "id": "1",
+      "name": "Maasai Mara Safari",
+      "description": "Home to The Big Five, Mighty Masai Warriors And The Eight Wonder Of The World. This destination is a must see for every traveler. Prepare to be in awe by the stunning views of the African plains, come face to face with the king of the jungle and learn more about the Maasai Mara.",
+      "itinerary": [
+        "Day 1: Departure From Nairobi To Maasai Mara.The start of the safari will be from the Bonfire Adventures Town Office (Yala Towers) at 0630hrs. The journey begins with a meet and greet which shall be followed by a short briefing by our safari driver.",
+        "Day 2: ENJOY A FULL DAY IN MAASAI MARA. This is one of the best days for safari lovers. Right after breakfast, sit back, relax and discover the wild beauty of the Kenya's Maasai Mara. Boasting one of the finest collections of wild animals, our expert tour guides are simply the best when it comes to uncovering the wonders of this safari destination.",
+        "Day 3: DEPARTURE FROM MAASAI MARA, GAME DRIVE AND RETURN TO NAIROBIThe last and final day of your Masai Mara Safari begins at the break of dawn with breakfast. If you would like, you can embark on another game drive in the early morning. Wildlife abundance in the reserve is high at this early hours of the day. You can take advantage over this game drive to look out for wild animals that you may not have spotted during your last two days of your safari. After the departure from your camp or lodge, we will depart from Maasai Mara driving via Narok Town (Maasai Market) with a short stop-over for any possible shopping. Continue to Nairobi arriving from around 02:00pm. Drop off is at the convenient point of your choice."
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1663337598_36_giraffes-7235627_1920.jpg",
+      "price": "30000",
+      "wishlist": false
+    },
+    {
+      "id": "2",
+      "name": "Enashipai Resort ",
+      "description": "Enashipai a Maasai word signifying A Place of Happiness describes the location perfectly. Situated against the backdrop of the majestic Great Rift Valley and along the shores of Lake Naivasha.Enashipai Resort and Spa is a recipient of multiple awards. It stands as a premier leisure and conference destination dedicated to providing authentic African hospitality with a focus on wellness.",
+      "itinerary": [
+        "What Does A Bonfire Travel Package Include?Our vacation deal includes hotel accommodation, and the hotel meal plan. Upon your request we can send you a package that includes transport. When it comes to what type of excursion you are looking to embark on, we can customize the perfect package with activities and experiences just for you.",
+        "How Long Should My Naivasha Vacation Be?Many travelers enjoy a 2-night stay in Naivasha. The town is filled with plenty of gems to uncover if you give yourself some time to enjoy. We can book a vacation for any number of nights that you would prefer.",
+        "What Are The Best Places To Visit In Naivasha?There are so many things to do in Naivasha, making it a perfect spot for every traveler. Some of the best destinations to visit include Hell's Gate, Crescent Island, Crater Lake and Olkaria Geothermal Spa."
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1705571203_64_Enashipai_Resort_Naivasha2.jpg",
+      "price": "12000",
+      "wishlist": false
+    },
+    {
+      "id": "3",
+      "name": "3 DAYS DIANI PACKAGE ",
+      "description": "Not once but three times, Diani was voted Africa's finest beach destination. Absolutely gorgeous and uncrowded, Diani's beaches are crystal blue, shallow and warm. Perfect for wading and snorkeling. For all the beach enthusiasts, you can get the chance to spot some of the best marine life here. Diani has two coral reefs rich with treasures such as the starfish, crabs, sea cucumber and a kaleidoscope of bright tropical fish",
+      "itinerary": [
+        "BEFORE TRAVEL If travelling with SGR, the Bonfire Adventures agent will send you the Booking Confirmation Number via WhatsApp or email. On arrival to the SGR Station you will present the code and confirm your seat number.",
+        "DAY 1 NAIROBI TO THE COAST The transfer to the SGR Station will be on your own arrangement. You are required to depart from Nairobi as per the SGR timing booked. Upon arrival at the SGR Station, you will be met by the Bonfire Adventures representative. He will assist you with your luggage and drive you to your beach hotel.",
+        "DAY 2 ENJOYING DIANI.This is definitely the best day for all beach enthusiasts. You can start the day by filling your belly with mouth-watering eats from your hotel. If you have travelled to simply relax, upgrade the way you unwind by soaking in the sun, enjoy a dip in the pool, lie down on the white sand and enjoy the crystal blue beach.",
+        "DAY 3 Final Day In Diani And Departure To Nairobi.This will be your last vacation day in Diani. After breakfast enjoy a few moments at the hotel. Go to the beach, sip a cool drink and soak in the sun. Our Bonfire Representative will drive to the hotel, pick you and take you to the SGR Station (Mombasa Terminus). We guarantee that you will arrive at the station right on time for the departure to Nairobi."
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1690299646_46_Sands_At_Chale_Diani_Bonfire_Adventures.jpg",
+      "price": "23000",
+      "wishlist": false
+    },
+    {
+      "id": "4",
+      "name": "5 Days Dubai Low Season Packages",
+      "description": "Vacations to Dubai are a guaranteed crowd-pleaser. Just as fancy as it looks in the pictures, this city is a traveler's dream. Nestled between the sea and burning desert sands. With the Bonfire Adventures Dubai Vacation, you are bound to enjoy an exciting time in this city.",
+      "itinerary": [
+        "BEFORE TRAVEL Bonfire Adventures will provide entry requirements such as the plane tickets and visa for your convenience. This will be given to you by the required deadline. To make your vacation as seamless as possible, it will be your responsibility to obtain any other required travel documents and carry them with you for your vacation.",
+        "DAY 1: NAIROBI TO DUBAI The transfer to the airport in Nairobi will be on your own arrangement. The flight to Dubai is an approximate of 5hours 23minutes. From the moment you land in Dubai, the next phase of your journey is completely hassle-free. You will meet the Bonfire Adventures Representative at the airport and he will be ready to assist you with transport to your hotel.",
+        " Day 2: CITY OF MERCHANTS. DUBAI CITY TOUR.This mesmerizing city is known globally for being larger than life. From mega malls, skyscrapers and everything in between, everything is done in such a phenomenal scale. To make your vacation even more incredible we included an exciting city tour on Day 2 of your adventure. What is Included Hotel Pick Up At 0900hrs Air-Conditioned Vehicle with A Professional English-Speaking Guide. See Dubai like a Pro on this all-encompassing tour wandering through the heart of Old Town Fragrant Spice and Gold Souqs as well as a visit to Jumeirah Mosque.",
+        "DAY 3: DHOW CRUISE DINNER.This day is perfectly curated for you to take some time and enjoy a little mini-break in Dubai. Savor all the excellent amenities in your resort, Sumptuous dining, private access to the beach, the hotel pool or unwind under the palm trees. The Bonfire Agent will drive to your resort and pick you up for the Dhow Cruise Dinner between 1930 to 1945hrs. Climb aboard the Dhow Alexandra and experience the excitement of sailing across the Dubai Creek. One Of the most popular tourist attractions in the city.",
+        " Day 4 DUBAI DESERT SAFARI The fun-filled Dubai Desert Safari is one of the most excellent ways to see the beauty of Dubai. A must-do adventure filled with a ton of exciting activities that you must experience. Our Bonfire Representative will pick you up from your hotel at 03:30pm. You will drive from Dubai City to the magical desert for an adventure packed. Visit the Camel Farm and enjoy beautiful photos with camels.",
+        "DAY 5: DEPARTURE FROM DUBAI.Saying goodbye to Dubai is a hard art to master. It makes you question how long you intend your vacation to be. No need to worry, we can get you an extra night in Dubai from only $50. Alternatively, when you are ready, give us a call and we will customize a special 2nd Timer Package just for you. Get to uncover other spots in the city and enjoy the experience on new adventures around Dubai. On your final day you can enjoy all the hotel amenities while completing all the formalities right before you check out."
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1663666097_66_DUBAI_BURJ.jpg",
+      "price": "120000",
+      "wishlist": false
+    },
+    {
+      "id": "5",
+      "name": "Explore South Africa",
+      "description": "Only in South Africa, can a traveler experience something new around each and every corner. This destination is often described as A world in one country, as it is perhaps one of the most diverse of all African holiday destinations. From the bustling streets of Cape Town, to the beautiful beaches, the wild game viewing in Kruger National Park to the charming Winelands, South Africa is like a perfect mix of the very best of the entire world.",
+      "itinerary": [
+        " DAY 1 ARRIVAL AT SOUTH AFRICA.Upon arrival at Cape Town International Airport, you will be met by a member of the Bonfire Adventures team who will assist you with your luggage and drive you to your resort. As you drive through Cape Town, you will be able to enjoy the gorgeous views of Table Mountains, one of the most spiritual places on earth, with its heart, two oceans and the beautiful city of Cape Town at its feet. As soon as you check into your hotel room, you get the chance to relax and unwind. Enjoy the excellent services and hotel amenities. The rest of the day is yours to explore this vibrant city.",
+        " DAY 2 A TOUR OF THE TABLE MOUNTAINS.Explore the scenic city of Cape Town on a thrilling adventure that begins with a ride on the revolving cable car up to the top of the iconic Table Mountain. Soak in the spectacular views of the Mother City and the entire Cape Peninsula as you walk along its flat top. This is great fun for everyone including small kids. You can also combine this experience with a hike to Table Mountain. Guaranteed fun and you can take breathtaking pictures along the way. From here, we will travel to the predominantly Muslim Bo-Kaap. Admire the brightly colored houses, which date back as far as the 17th century and get a glimpse into one of the many vibrant cultures.",
+        "Day 3 ADVENTURE AT CAPE PENINSULA.This full day tour takes you on a grand adventure exploring the highlights of Cape Peninsula. Immerse yourself in exciting activities guaranteed to delight and entertain family members of all ages. Explore the warm sands of Boulders Beach and browse the sidewalk cafes and bars of this beautiful beach. The next stop is the spectacular coastal suburb of Hout Bay, a former fishing village with a long glistening beach facing a bay framed by mountains. The tour continues along the breath-taking Chapmans Peak Drive before stopping near Simons Town, where you can get the chance to hunt for a wide variety of gorgeous gemstones and shop for beautiful jewel pieces at Mineral World.",
+        "DAY 4 LEISURE DAY IN SOUTH AFRICa.This day is perfectly tailored for you to enjoy Cape Town at your own will. There are historic and cultural sites, world-class museums and bustling markets, inviting beaches and lush gardens to visit, as well as, great restaurants and wonderful shopping. You can also enjoy interactive experiences within Cape Town. Once you have explored to your content, you can go back to your resort, enjoy the amenities and relax.",
+        "DAY 5 DEPARTURE FROM SOUTH AFRICa.On your final day you can enjoy all the hotel amenities while completing all the formalities right before you check out. To make your departure stress-free our Bonfire Adventures Agent will pick you up from your resort four hours before your flight departure time. Enjoy the magnificent views of South Africa as you drive to the airport. You will arrive at a good time allowing you to breeze through on your way home."
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1691576149_15_south_africa_vacation_with_Bonfire_Adventures_11.jpg",
+      "price": "124300",
+      "wishlist": false
+    },
+    {
+      "id": "6",
+      "name": "3 Days Amboseli National Park",
+      "description": "Amboseli National Park is also known as the Land Of Giants because of the majestic elephants that roam freely carrying their tremendous tusks. Located about four hours from the southeast of Nairobi-Kenya this park is also famed for the sensational view of the majestic snow-capped Mouth Kilimanjaro.",
+      "itinerary": [
+        "DAY 1 NAIROBI TO AMBOSELI NATIONAL PARK (240km: 4Hours Approximate)We will depart from Nairobi CBD at 0730hrs from the Bonfire Adventures Office (Yala Towers). If you would like we can pick-up from your preferred destination. Enjoy a scenic drive to Amboseli National Park along the Nairobi - Mombasa Highway. A very relaxing drive through the savannah and within 3-4 hours you will have arrived just in time for lunch. Get the chance to comfortably check into your lodge or camp. Enjoy your meal, unwind and enjoy the amenities. In the afternoon we will head out for an exciting game drive. With Mt. Kilimanjaro as our background.",
+        "DAY 2 FULL DAY AT AMBOSELI NATIONAL PARK.We like to rise early while on safari to set an adventurous tone for the day. Right after breakfast, you will be picked from your lodge and head to the plains of Amboseli for a day full of adventure. Soak in the excellent views of Mount Kilimanjaro before the clouds build up over the summit. Catch the big cats as they stroll through the savannah. This is the best time to spot lions, leopards and even cheetahs. Our game drive will also take you to the observation hill to have a better overall view of the park. Gaze at the big herds of elephants crossing right near your vehicle and get the chance to spot over 80 different mammals and over 400 different bird species.",
+        "DAY 3 DEPARTURE FROM AMBOSELI.Just like the day before, we will wake up early allowing us to embark for yet another adventure in Amboseli. Enjoy your last moments in your hotel. Take a swim in the pool, enjoy the amenities and right after breakfast, check out and join your tour guide for the last game run before we exit the park. The morning drive out of the park is very rewarding. Get the chance to spot herds of elephants, buffalos and even lions. "
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1685440474_97_Elephants_Photo_In_Amboseli_With_Bonfire_Adventures.jpg",
+      "price": "45600",
+      "wishlist": false
+    },
+    {
+      "id": "7",
+      "name": "TANZANIA JEWELS MIDRANGE SAFARI",
+      "description": "In a typical safari, you will be able to witness a glorious display of these landscapes. You will be able to drive through rough roads, some almost impassable during certain times, and you will be able to enjoy a striking natural scenery all throughout.",
+      "itinerary": [
+        "Day 01 Arrival Arusha Approximately 55 kms, takes approximately 1.5 hours' drive depending on traffic Bonfire Adventures guide driver will warmly meet you on arrival at the Kilimanjaro International Airport, transfer you to Arusha. Check-in at the Arusha Serena Hotel, Resort & Spa. Enjoy overnight as you await to begin your Africa Safari. You are booked in standard room on bed & breakfast.",
+        "Day 02 Arusha - Ngorongoro Crater Tour.Approximately 190kms, takes approximately 4.5 hours' drive Enjoy early morning breakfast the depart with packed lunch to Ngorongoro. Descend some 610 metres into the Ngorongoro Crater floor for game viewing drives. The 20km diameter crater floor has one of the highest wildlife per service area concentration.",
+        "Day 03 Ngorongoro - Serengeti National Park Approximately 170kms, takes approximately 4 hours' drive Enjoy breakfast then we drive you to the Serengeti National Park. This is one of the best places for a Safari in Africa. Enjoy afternoon game viewing drives towards Central Serengeti. Later proceed to the Serengeti Serena Safari Lodge for check-in, dinner and overnight.",
+        "Day 04 Serengeti National Park Enjoy breakfast then depart with packed lunch for a full day of game viewing drives. The vast Serengeti plains is home to hundreds of wildlife species including the elusive leopard, cheetah, spotted hyenas, Masai giraffes, cape buffalo, lions, the migratory wildebeests, hartebeests among many others. Enjoy dinner ad overnight at the Serengeti Serena Safari Lodge.",
+        "Day 05 Fly Serengeti to Arusha & Road transfer to Kilimanjaro AirportLight Aircraft from Serengeti (Seronera Airstrip) to Arusha takes 1hr 15 minutes. Enjoy breakfast then check-out. With packed lunch we drive you to the Seronera Airstrip for your mid-morning scheduled flight to the Arusha Airport where we meet and transfer you to the Kilimanjaro International Airport for your departure flight. We at Bonfire Adventures sincerely thank you for booking your Africa Safari with us"
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1664193130_8_serengeti_serena_3.jpg",
+      "price": "87000",
+      "wishlist": false
+    },
+    {
+      "id": "8",
+      "name": "3 Days Samburu Package",
+      "description": "Samburu - One of the most magical sanctuaries in Kenya. Hosting a wide array of wildlife, and over 390 type of birds. Join us on a 3-day safari to this magical sanctuary.",
+      "itinerary": [
+        "Day 1 Nairobi - Samburu.The start of the safari will be from the Bonfire Adventures Town Office (Yala Towers) at 0630hrs. The journey begins with a meet and greet which shall be followed by a short briefing by our safari driver. Get the chance to soak in the beautiful views as we descend to Samburu. The drive will take approximately 3.5hours. There will be a quick stop over, to shop and enjoy the amazing views.' Arrival at Samburu will be around lunch hour giving you the chance to check into your camp or lodge, then enjoy a delicious meal. At 0330hrs, it's time to head out on your afternoon game drive",
+        "Day 2 A FULL DAY IN SAMBURU.This is one of the best days for safari lovers. Right after breakfast, sit back, relax and discover the wild beauty of the savannah. Boasting one of the finest collections of wild animals, our expert tour guides are simply the best when it comes to uncovering the wonders of this safari destination.",
+        "Day 3 Departure From Samburu.The last and final day of your Samburu Safari begins at the break of dawn with breakfast. If you would like, you can embark on another game drive in the early morning. Wildlife abundance in the reserve is high at these early hours of the day. You can take advantage over this game drive to look out for wild animals that you may not have spotted during your last two days of your safari. "
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1665574707_56_Dining-on-the-edge.jpg",
+      "price": "50000",
+      "wishlist": false
+    },
+    {
+      "id": "9",
+      "name": "3 Days Amboseli National Park",
+      "description": "Tsavo West offers some of the most magnificent game viewing in the world and attractions include elephant, rhino, Hippos, lions, cheetah, leopards, Buffalos, diverse plant and bird species including the threatened corncrake and near threatened Basra Reed Warbler.",
+      "itinerary": [
+        "Day 1 Nairobi -Tsavo West National Park.Approximately 270 kms, takes approximately 5 hours' drive Our guide driver will pick you from the City CBD and drive you to the Tsavo West National Park. You will be arriving at your lodge/camp for check-in then lunch. Enjoy an afternoon game viewing drive. Leopard, Cheetah, Wild dogs, Buffalo, Rhino, Elephant, Masai Giraffe, Burchell's Zebra, Lion, Lesser Kudu, and Nocturnal Porcupine among many others are found I this park. Prolific birdlife features over 600 species. Enjoy dinner ad overnight.",
+        "Day 2 Tsavo West National Park.Enjoy breakfast then with packed lunch depart on a full day of game viewing drives. Some interesting attractions in Tsavo West include the Mzima Springs, Ngulia Rhino Sanctuary, Ngulia Hills, Shetani Lava Flows, Chaimu Crater & Roaring Rocks. Enjoy dinner and overnight.",
+        "DAY 3 DepartureApproximately 270kms, takes approximately 7.5 hours' drive depending on traffic Enjoy breakfast then check-out. We drive you back to Nairobi/Mombasa. Our guide driver will drop you at your designated point within the city. We at Bonfire Adventures sincerely thanks you for traveling with us"
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1685440474_97_Elephants_Photo_In_Amboseli_With_Bonfire_Adventures.jpg",
+      "price": 54000,
+      "wishlist": false
+    },
+    {
+      "id": "10",
+      "name": "Mt. Kenya Sirimon/Sirimon",
+      "description": "A quick trek to Mount Kenya recommended for the well-acclimatized and energetic mountain hikers. It is a challenging hike to the summit following straightforward paths and making use of accommodation huts located along the way. However, attempting the summit on Day 3 and descending up to the Sirimon road head on the same day will be difficult though achievable.",
+      "itinerary": [
+        "Day 1 Nairobi - NanyukiLeave Nairobi by public means accompanies by our mountain guide arriving in Nanyuki in time for lunch.The rest of the day is spent acclimatizing. Dinner and overnight at a budget hotel.",
+        "Nanyuki - Old Moses Camp After breakfast,Proceed to Mount Kenya National Park Sirimon Gate, 1 hr, 2440m. From the Sirimon Park Gate follow the track as it winds uphill though the forest which becomes heath land after about 3 hrs. About 3½ hours from the gate the track veers right to Judmier Camp/Old Moses camp,3300m above sea level for dinner and overnight.",
+        "Old Moses Camp - Shipton Camp 6-7hrs, 14km, 900m ascent After breakfast, follow the track uphill, forking left at the junction. After one hour from Old Moses Camp, the track crosses Ontulili River. Go right contouring through the Moorland and crossing Liki North and continue uphill to Mackinders Valley. From the valley, there are panoramic views up the valley towards the main peaks. Dinner and overnight at Shipton Camp, 4200m, B,L,D",
+        "Shipton Point - Lenana - Old MosesWake early at 2:30 and be ready to hike to point Lenana 4985. On a clear day, you can see Mount Kilimanjaro in the south, Mt Elgon to the west, and the Indian Ocean to the east. After Lenana, we descend to Shipton point for main breakfast and later to old Moses camp for dinner and overnight stay."
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1695284797_42_Jambo_Mutara_With_Bonfire_Adventures_3.jpg",
+      "price": 45000,
+      "wishlist": false
+    },
+    {
+      "id": "11",
+      "name": "Mount Elgon hike",
+      "description": "The 4 Days Mount Elgon Hiking/Trekking Safari will make you able to Hike the Elgon Mountain and enjoy splendid views, from Sipi waterfalls, and the caves, among others.This popular exploration center trail loop site will also make you enjoy the cool mist at Chebonet falls, Kapkwai cave, the talking tree and a spectacular view point which lies just beyond.",
+      "itinerary": [
+        "Day 1Mt.Elgon National ParkAn early start (7.00am) will allow adequate time for game drives within Mt.Elgon National Park in a 4X4 vehicle. Here there is the possibility to see elephants, buffalos, and antelopes among other types of game. Lunch will be at Kitum, one of the famous caves where elephants and buffalos pay visits for a mineral lick. The afternoons game drives will continue to higher altitudes till 3000m where you will rest for the evening in a fly camp at the road head.",
+        "Day 2Koitoboss Kenya Today your hike starts with a 4 hours walk, accompanied by Kenya Wildlife Service escorts, leading to the Koitoboss, the highest peak on the Kenyan side before crossing the caldera over to Uganda. At the border you will be received by armed Ugandan Wildlife Authority rangers who will accompany you down the Ugandan trail. Diner and overnight will be in a fly camp at the Mude caves (3500m).",
+        "Wagagai Uganda.This is the day of Summit challenge with the day's trek to Wagagai (4321m), the peak of Mt. Elgon. You will walk along the rim of one of the world's largest calderas as you approach the summit. Here are several of small lakes left behind by glaciers of the last ice age. You will return to your Mude caves camp for dinner and a well deserved overnight.",
+        "Day 4.Bumasola,Uganda Your descend will take you through the scenic montane forest and mixed bamboo with a lunch on the way. The heath and moorland gives way to forest at 3000m followed by small scale farmlands. On your way you will meet troops of black and white colobus as well as the blue monkeys and many varied bird species. At Bumasola (1770m) at about 2.00 pm you will bid the crew goodbye. Your driver will be waiting and transfer you to Mbale. Dinner and overnight will be at the Sun rise Inn."
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1667979772_3_Nanyuki_1.jpg",
+      "price": 67000,
+      "wishlist": false
+    },
+    {
+      "id": "12",
+      "name": "Nairobi City Tour",
+      "description": "This tour take you to 3 attractions namely Nairobi National park, Elephant orphanage and Giraffe Center. On this full day Nairobi tour, not only will you get to see some of the cutest baby elephants playing in a special orphanage, but you can also feed giraffes in an urban sanctuary! Plus, youll have the chance to see free roaming lions, leopards, cheetahs, rhinos, buffaloes and hippos at Nairobi National Park.",
+      "itinerary": [
+        "You will be picked up in the early morning at around 6 AM (flexible timings) and driven to Nairobi NationaPaHere youll be on the lookout for wildlife including buffalo, zebra, giraffe, ostrich, hyena and of course the big cats. Leave the park at 10.30AM and head to the elephant orphanage to delight in the most adorable creatures feeding from giant baby bottles (This needs to be booked well in advance) Depart the orphanage at 12.20PM and head for lunch at the famous Carnivore Restaurant or Galleria mall at own cost. The afternoon promises more excitement and at around 2PM, we drop in at the Giraffe Center, home of endangered Rothschilds Giraffes. On these stately grounds you can get up close and even feed these amazing creatures.Later at around 5PM, be dropped at your hotel or at the airport.Please note that the elephant orphanage requires advance booking. It might be substituted if unavailable."
+      ],
+      "image": "https://roller-safaris.co.ke/wp-content/uploads/2015/01/murad-swaleh-7tDidSXbgD8-unsplash1-scaled-870x555.jpg",
+      "price": 6000,
+      "wishlist": false
+    },
+    {
+      "id": "12",
+      "name": "Kenya and Across Border Safari",
+      "description": "On this 5 days safari, explore some of Kenya and Tanzanias amazing national parks, packed full of wildlife and birds. In Kenya discover the Masai Mara and Amboseli National Park while in Tanzania head to the Serengeti, Tarangire andLake Manyara National Parks and Ngorongoro Conservation Area and Crater. This Combined Safari departs from Nairobi and provides ample opportunities to see wildlife and the wildebeest migration (if in season) as they cross the major plains and rivers of the greater Masai Mara and Greater Serengeti, the gentle Majestic Mt. Kilimanjaro, the Ngorongoro Crater, and the pink-colored Lake Manyara. An extensive vacation spent looking for wildlife and bird species.",
+      "itinerary": [
+        "Day1 Nairobi to Maasai Mara Pick up from your hotel or airport and drive to Masai Mara, arriving in time for lunch. After lunch, depart at 4 p.m. for a 2-hour evening wildlife safari drive.The Masai Mara Reserve is Kenya's most popular tourist attraction. Located mostly in open grassland in the Great Rift Valley. The reserve's western escarpment has the most wildlife. It is considered the crown jewel of Kenya's wildlife viewing zones.",
+        "Day2 Maasai Mara Full Day breakfast,begin a full-day game drive at 7:30 a.m., all the way to the Mara River, the site of the big wildebeest migration. At 1 p.m., have a picnic lunch in the park.",
+        "Day3 Depart Masai Mara to Isebania Border to Serengeti.Morning game drive at the Masai Mara enroute with packed lunch and drive to the border which is around 4 hours and depart for Serengeti Through the Isebania border In Tanzania we use 4 wheel drive land cruiser. Game drive en route to the camp. Dinner and overnight at Osinon camp",
+        "Day4 Full day in Serengeti At 7:00AM ,Set out for the endless open plains and stunning skies of the Serengeti. A scenic four hour drive, full day game drive together with late evening game drive.The Serengeti is Tanzania's largest and most famous park, known worldwide for its endless plains, migrating wildebeest, herds of lions and predators such as hyenas, cheetahs and leopards and also plenty of birdlife. The Grumeti River is home to crocodiles, hippos, giraffes, antelopes and gazelles. Later return to your camp for dinner and overnightat Osinon Camp.",
+        "Day5 Amboseli National Park-Nairobi Breakfast at the Lodge and thereafter proceed to check out and drive back to Nairobi for a drop off at your hotel/Airport for your departure flights."
+      ],
+      "image": "https://roller-safaris.co.ke/wp-content/uploads/2023/05/IMG-20201015-WA0004-870x555.jpg",
+      "price": "120000",
+      "wishlist": false
+    },
+    {
+      "id": "13",
+      "name": "Wildlife and White Sands Safari",
+      "description": "This is a family excursion to the Amboseli National Park, which is renowned as the best location in the world for getting close to wild elephants. The parks scant vegetation also provides wonderful views of Mount Kilimanjaro. The best opportunity to witness animals is provided by it. We then travel to Tsavo East and West. One of the top tourist locations in Kenya is Tsavo National Park, which is situated in the countrys southwest",
+      "itinerary": [
+        "Day 1 Nairobi-Amboseli National Park.Pick up at Nairobi hotel, residence, or airport followed by a short briefing by the guide then you embark on your journey to Amboseli national park, on your way you will pass by scenery filled with typical Kenyan life to give you an understanding of how life is lived each day",
+        "Day2 Full Day in Amboseli National Park Rising early for good views of Mount Kilimanjaro before the clouds build up over the summit. we set off for a full day game drive spend your day looking out for large herds of elephants, Rhino, zebras, wildebeest giraffes among others. Return to Oltukai lodge for dinner and overnight.",
+        "Day3 Amboseli National Park-Tsavo West Rising early morning we go for one more game drive as we head to Tsavo west national park famous for Mzima springs the most popular wildlife attractions due to its resident populations of hippos and Nile crocodiles, the fruit trees grow beside the water such as water berries, figs, and raffia palms . Have lunch at your chosen accommodation then set for the afternoon game drive till sunset. Return to Saltlick Lodge for dinner and overnight.",
+        "Day4 Tsavo West-Tsavo East Morning game drive as we head to the East the oldest and largest national park in Kenya, arriving in time for lunch at your accommodation relax and then afternoon game drive, the park consists of semi-arid grassland and savanna with dry plains across which the Galana River flows, visit yatta plateau (the worlds longest lava flow) and lugard fall the park is also home to a variety of birdlife and wildlife, return to the camp for dinner and overnight in Voi Safari Lodge",
+        "Day5 Return to Nairobi end of our trip"
+      ],
+      "image": "https://roller-safaris.co.ke/wp-content/uploads/2015/01/africa-4296742_1920-870x555.jpg",
+      "price": "56000",
+      "wishlist": false
+    },
+    {
+      "id": "14",
+      "name": "Diamond Dream Of Africa",
+      "description": "Diamonds Dream of Africa is a high-end beachfront resort situated in the coastal town of Malindi, located in East Africa's Kenya. The resort is renowned for its tranquil and breathtaking setting, nestled amidst lush tropical gardens and offering captivating views of the Indian Ocean. Diamonds Dream of Africa serves as an opulent haven for your Malindi getaway, providing an ideal backdrop to indulge in relaxation. It presents an extensive range of spa treatments, water-based activities, and ample beachfront space, allowing guests to sunbathe, swim, and rejuvenate just steps away from their accommodations.",
+      "itinerary": [
+        "DAY 1 TRAVEL TO MALINDI.Departure from Nairobi will be as per your flight/SGR timing. On arrival to the coast, the Bonfire Adventures agent will be there, ready to help you with your luggage and drive you to your resort. Enjoy the gorgeous views as you drive through the city to your hotel. As soon as you check in, it's time to relax! Sit back, unwind and enjoy the Bonfire Experience. Enjoy the impeccable service, hotel amenities, fantastic pool and the beautiful beaches. Enjoy your dinner and overnight stay at the resort.",
+        "DAY 2 ENJOY OUR TIME IN DIAMOND DREAM OF AFRICA This is the perfect day to immerse yourself in beach and city activities. Spend your relaxing downtime on the welcoming sands of the gorgeous beaches. Take a dip in the warm blue tropical waters of Malindi. Go on a camel ride just as the traders have done for centuries and enjoy the relaxing facilities at the hotel to the maximum and full satisfaction. You can also enjoy a mix of activities by exploring the back alleyways and Bazaars of Malindi. Marvel at the city's architecture, cuisines and customs. You can also visit attractions including Watamu National Marine Park and the Sabaki Delta.",
+        "DAY 3 FINAL DAY IN MALINDIThis will be your last day to enjoy Malindi and Watamu. No need to worry, we can get you an extra night in the region from only Ksh.7,000. Alternatively, we can organize another fun beach vacation for you with extra nights, allowing you to uncover other spots in the town and enjoy the beautiful beaches. On your final day here, you can enjoy all the hotel amenities while completing all the formalities right before you check out. To make your departure stress-free the Bonfire Adventures Agent will pick you up from your resort four hours before your flight/SGR departure. You will arrive at the SGR Station/Airport at a good time allowing you to breeze through on your way home."
+      ],
+      "image": "https://tour.epesicloud.com/app/storage/uploads/37/1695803855_6_Diamond_Dream_Of_Africa_With_Bonfire_Adventures.jpg",
+      "price": "120000",
+      "wishlist": false
+    },
+    {
+      "id": "15",
+      "name": "Paris 5 Day trip",
+      "description": "Paris is not just the capital of France; it's the capital of fashion and the city of love. Located by the River Seine in the north of France, Paris is reputed for being the most beautiful and romantic city in the world.",
+      "itinerary": [
+        "DAY 1: FROM MONTMARTRE TO THE OPERA Start your day early, catching the sunrise in Montmartre before the crowds roll in. Hop off at Anvers station and take your time ascending the steps, passing by a charming carousel. Once Sacré-Coeur opens, make sure to explore this beautiful church, with a special recommendation for the dome climb my personal favourite. Wander through Montmartre's iconic spots like La Maison Rose, Le Consulat, and Le Moulin de la Galette. Grab a coffee or breakfast at The Hardware Société, a lovely Australian café. Head down to Abbesses via Rue Lepic, stopping to check out the Wall of Love.Take a quick detour to Moulin Rouge; you can always revisit at night to see the neighbourhood lit up. For lunch, consider Bouillon Pigalle for traditional French fare or Pink Mamma for its iconic decor and delicious truffle pasta. After lunch, explore Galeries Lafayette, admiring the dome and enjoying panoramic views from the rooftop. Even if shopping isn't your thing, the architecture and views are worth a visit. If youre visiting during the Christmas period, make sure to check out their famous Lafayette Christmas Tree.",
+        "DAY 2: PARISIAN ICONS Today is all about exploring Paris' most famous landmarks. If you're an early bird like me, head to the Eiffel Tower at sunrise. Get off at Trocadéro metro station for a serene experience at Place du Trocadéro before the crowds arrive. Slowly make your way down the stairs towards the Champ-de-Mars to get closer to the Eiffel Tower. Theres a really nice photo opportunity here for those of you who like photography.You might get hungry very quickly if you visit early in the morning, and I urge you to follow this piece of advice: do not, I repeat do not head to the first few restaurants you see near Paris most famous monuments. The food will be average, the service horrible and the prices astronomical. Instead, opt for French toast at Ladurée on Les Champs Élysées; make sure to grab a box of their famous macarons before you leave. Move on to the Arc-de-Triomphe; while most people stop here for a photo, know that there are 11 other less crowded avenues around the Place Charles-de-Gaulle. The tunnel to go underneath Place Charles-de-Gaulle and get to the Arc-de-Triomphe is located here",
+        "DAY 3: LATIN QUARTER & THE EAST Begin your day with the colourful Rue Crémieux in the 12th arrondissement. Keep it low-key and respectful of residents privacy during your early morning visit. Walk along Canal St-Martin to Place des Vosges, a beautiful square, especially during autumn, with a rich history dating back to the 17th century.In Le Marais, enjoy breakfast at one of Rue Des Archives' charming cafes. Head to L Hôtel de Ville and then LIle de la Cité to see Notre-Dame-de-Paris, even if it's still closed for renovations at the time of your visit. Explore the streets around the cathedral, you ll surely stumble upon Au Vieux Paris d'Arcole, one of Parisoldest restaurants. Notre-Dame, a masterpiece of French Gothic architecture, witnessed centuries of history, from royal events to Victor Hugo's literary masterpiece The Hunchback of Notre-Dame.",
+        "DAY 4: DAY TRIP TO VERSAILLESTake a day to explore the Palace of Versailles, a one-hour journey from Paris accessible by car or RER C. This UNESCO World Heritage site, commissioned by Louis XIV in the 17th century, reflects the grandeur of France's monarchy across 2,000 acres of stunning grounds.Begin your tour in the Palace's Hall of Mirrors, a dazzling hall adorned with 357 mirrors, symbolising the wealth and power of the French monarchy and where the Treaty of Versailles was signed in 1919. Admire the opulent Royal Apartments, including the iconic Queen's Bedroom and King's Bedroom, showcasing the extravagant taste of the monarchs.",
+        "DAY 5: THE WEST On your fifth day in Paris, delve into the western part of the city for a diverse experience that combines nature, art, and the enchanting Seine River.Begin your day at the Bois de Boulogne, a vast public park that once served as a hunting ground for French kings. Today, it offers a serene escape with lakes, gardens, and walking trails. The Parc de Bagatelle within Bois de Boulogne is particularly noteworthy for its charming rose garden and the Bagatelle Château."
+      ],
+      "image": "https://images.squarespace-cdn.com/content/v1/57265e5745bf21105b61fddb/1704323010416-LLF3J3YUHPL648IOUGG6/089A6147.png?format=500w",
+      "price": "400000",
+      "wishlist": false
+    },
+    {
+      "id": "16",
+      "name": "6-day Gastronomic and Scuba Diving Adventure in Thailand",
+      "description": "Thailand is an absolute gem of a destination in South-East Asia, with mesmerizing islands, paradise white-sand beaches, and one of the most vibrant capital cities in the world.",
+      "itinerary": [
+        "Day1 Start your day with a leisurely walk along the Chao Phraya River, taking in the sights and sounds of the city. You can visit the iconic Grand Palace and Wat Pho on the riverside, enjoying the stunning architecture and peacefulatmosphere.",
+        "Day 2 Start your day with a visit to the Chatuchak Weekend Market, one of the largest markets in the world. Explore the countless stalls selling a variety of goods, from local handicrafts to clothing and souvenirs. Don't miss the opportunity to try some of the delicious street food available at the market.",
+        "Day 3 Start your day with a visit to Trickeye Museum, where you can explore interactive 3D art exhibits and take unique photos. Afterward, enjoy a traditional Thai lunch at Baan Khanitha, known for its authentic flavors and charming ambiance. Immerse yourself in Thai history and culture at the National Museum. Explore the extensive collection of artifacts and learn about the country's rich heritage. Afterward, take a relaxing boat ride along the Chao Phraya River and enjoy the scenic views.",
+        "Day4 Embark on a unique dolphin encounter experience at Siam Ocean World in Bangkok. Spend the morning interacting with these intelligent creatures and learning about marine conservation efforts.After your dolphin encounter, enjoy a leisurely lunch at Siam Paragon Food Hall, offering a variety of local and international cuisines. Then, continue your cultural exploration with a visit to the Jim Thompson House, a museum showcasing traditional Thai architecture and art.",
+        "Day5 Start your day with a visit to Pattaya Beach, a popular seaside destination known for its lively atmosphere and water sports activities. Spend the morning relaxing on the beach, swimming in the ocean, or trying out some of the local water sports. For lunch, enjoy fresh seafood at The Glass House Beachfront Restaurant, a beachfront eatery with stunning views of the sea. Afterward, you can explore the nearby shops and markets for souvenirs and local handicrafts.",
+        "Day6 Begin your day with an exciting snorkeling adventure at Koh Haa (Koh Ha), a group of five idyllic islands known for their crystal-clear waters and vibrant marine life. Spend the morning exploring the underwater world and swimming among colorful fish and coral reefs.After your snorkeling experience, enjoy a beachside lunch at Sunset Grill Restaurant, located on the beautiful Koh Kradan (Ko Kradan). Relax on the white sandy beach, soak up the sun, and take in the stunning views of the Andaman Sea."
+      ],
+      "image": "https://media.timeout.com/images/105240236/image.jpg",
+      "price": "4000000",
+      "wishlist": false
+    },
+    {
+      "id": "17",
+      "name": "4-day Adventure in Bali",
+      "description": "Known as the Island of the Gods, Bali is an island paradise that has much to offer its visitors. Lush rice fields, ancient temples, magical sunsets, traditional villages, idyllic beaches and the best hotels in the world are some of the island's most remarkable attractions.",
+      "itinerary": [
+        "DAY 1 Start your day with a relaxing morning at Seminyak Beach (Pantai Seminyak). Take a leisurely walk along the sandy shore, feel the warm sun on your skin, and enjoy the calming sound of the waves. For breakfast, savor a delicious meal at Sea Vu Play, a beachfront restaurant with a vibrant atmosphere",
+        "DAY2 Start your day with a healthy and delicious breakfast at Sage Bali, a vegan restaurant in the heart of Ubud. Enjoy a variety of plant-based dishes made with locally sourced ingredients.",
+        "Day 3 Spend the morning exploring the vibrant food scene of Bali with a visit to the Bali Cooking Class at an Organic Farm. Learn to prepare traditional Balinese dishes using fresh ingredients and immerse yourself in the local culinary traditions.",
+        "Day 4 Start your day with an adrenaline-pumping adventure on the Ubud ATV Quad Biking Adventure Guided Tour. Explore the lush countryside of Bali on an ATV quad bike, passing through rice fields, villages, and jungle trails. After the adventure, treat yourself to a well-deserved lunch at Locavore, a renowned restaurant offering innovative dishes made with locally sourced ingredients. Then, spend the afternoon relaxing on the beautiful Seminyak Beach, soaking up the sun and enjoying the crystal-clear waters.",
+        "Day5 Begin your day with a visit to the Ubud 3-Hour Silver Jewelry Making Class, where you can learn the art of traditional Balinese silver jewelry making. Create your own unique piece to take home as a souvenir.Enjoy a leisurely lunch at Mozaic Restaurant Gastronomique, a fine dining establishment offering a fusion of Indonesian and international flavors. Afterward, explore the Bali Museum (Museum Negeri Propinsi Bali) to learn about Bali's rich history and cultural heritage."
+      ],
+      "image": "https://a.cdn-hotels.com/gdcs/production143/d1112/c4fedab1-4041-4db5-9245-97439472cf2c.jpg",
+      "price": "500000",
+      "wishlist": false
+    },
+    {
+      "id": "18",
+      "name": "4-Day Cultural and Culinary Exploration in Goa I",
+      "description": "Goa, a tiny emerald on the west coast of India, with its natural Scenic beauty, abundant greenery, attractive beaches, historical temples and churches, colourful feasts and festivals, and above all warm and hospitable people with a rich cultural milieu, has today emerged as an ideal tourist destination worldwide.",
+      "itinerary": [
+        "Day 1 Morning Start your day with a guided heritage walk through the narrow lanes of Chandor, a village known for its ancestral homes and rich history. Explore the unique architecture and learn about the cultural significance of the region. After the walk, visit the Quepem Fort, a hidden gem with panoramic views of the surrounding countryside. For lunch, indulge in a seafood feast at Casa Sarita, a fine dining restaurant known for its Goan specialties and elegant ambiance. Afterward, take a leisurely drive to Cabo de Rama, a secluded beach with a historic fort overlooking the Arabian Sea. Enjoy the tranquility of the surroundings and take a refreshing dip in the ocean.",
+        "Day2Morning Begin your day with a rejuvenating sunrise yoga session on the beach. Feel the gentle sea breeze as you practice your asanas and connect with nature. Afterward, enjoy a healthy breakfast at a beachfront cafe, savoring the fresh tropical fruits and local specialties.Spend the afternoon unwinding on the sandy shores of Palolem Beach. Relax under the shade of a palm tree, take a refreshing dip in the clear waters, or simply bask in the warm Goan sun. For lunch, indulge in a beachside seafood barbecue at Curlies Beach Shack, known for its laid-back atmosphere and delicious grills.",
+        "Day 3 Morning Start your day with a visit to the serene Calangute Beach. Enjoy the soft sands and the gentle waves as you take a morning stroll along the shore. Afterward, treat yourself to a delicious breakfast at Vinayak Family Restaurant, known for its authentic Goan dishes and warm hospitality.  After a relaxing morning at the beach, head to the historic Fort Aguada. Explore the fort's architecture and enjoy panoramic views of the Arabian Sea. For lunch, savor the flavors of Goa at Gunpowder, a popular restaurant offering traditional South Indian cuisine with a modern twist.",
+        "Day 4 Morning Embark on a thrilling jungle trek in the lush forests of Bhagwan Mahavir Wildlife Sanctuary. Explore the diverse flora and fauna of the region as you hike through the scenic trails. After working up an appetite, enjoy a traditional Goan breakfast at Cafe Tato, a hidden gem known for its local cuisine and cozy ambiance. After the trek, visit a local spice plantation for a guided tour. Learn about the cultivation of spices like cardamom, pepper, and cinnamon, and enjoy a farm-to-table Goan lunch amidst the greenery. For a unique experience, try the Treehouse Dining at Wildernest Nature Resort, where you can savor traditional Goan dishes in a serene setting."
+      ],
+      "image": "https://images.squarespace-cdn.com/content/v1/57265e5745bf21105b61fddb/1704323010416-LLF3J3YUHPL648IOUGG6/089A6147.png?format=500w",
+      "price": "7000000",
+      "wishlist": false
+    },
+    {
+      "id": "19",
+      "name": "3-Day Parisian Dream: Art, Gastronomy, and Tranquility",
+      "description": "Paris (nicknamed the  is the capital city of France, and the largest city in France. The area is 105 square kilometres (41 square miles), and around 2.15 million people live there.",
+      "itinerary": [
+        "Day 1 Morning Start your Parisian adventure with a delightful breakfast at Le Petit Cambodge, known for its fresh and flavorful dishes. Afterward, take a leisurely morning stroll to the majestic Eiffel Tower and enjoy the panoramic views from the second floor with your Eiffel Tower Entry Ticket with Optional Summit Access.",
+        "Day2 Begin your day with a sumptuous breakfast at L'Arpège, a Michelin-starred restaurant known for its organic and vegetarian dishes. Afterward, take a day trip to the opulent Palace of Versailles with your Versailles Palace and Gardens Full Access Ticket. Explore the grand halls, the Hall of Mirrors, and the beautiful gardens at your own pace.  Upon returning to Paris, enjoy a guided tour of the Orsay Museum (Musée d'Orsay) with your Skip-the-Line Louvre Museum Masterpieces Guided Tour. Admire the impressive collection of Impressionist and Post-Impressionist masterpieces, including works by Monet, Van Gogh, and Degas.",
+        "Day 3 ndulge in a leisurely breakfast at Les Papilles, a charming bistro known for its seasonal menu. Afterward, spend the morning exploring the high-end boutiques and designer stores in the Champs-Élysées area, a paradise for fashion enthusiasts. For a delightful lunch, head to Clown Bar, a quirky and stylish restaurant known for its inventive dishes and lively atmosphere. Afterward, continue your shopping spree or take a relaxing walk in the nearby Tuileries Garden (Jardin des Tuileries)."
+      ],
+      "image": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/002/047/slideshow/20e26003f58a62e8b98518d754c26bbf/france-paris-louvre-at-dusk.jpg",
+      "price": "800000",
+      "wishlist": false
+    },
+    {
+      "id": "20",
+      "name": "3 day Puerto Rico Guide",
+      "description": "Puerto Rico is a beach lover's destination, with hundreds of beaches easily accessible, each possessing its own vibe and unique landscape. This is a Caribbean destination where the best way to enjoy it is by renting a jeep and going beach hopping till sunset.",
+      "itinerary": [
+        "Day 1: Tropical Vibes in the Metro Region.The day you arrive in San Juan, get an authentic taste of the Caribbean by heading straight over to the Piñones neighborhood in the nearby town of Loíza. This picturesque strip of oceanfront kiosks and restaurants is just a 15-minute drive out of the city (and about five minutes from the airport). You can opt to have a sit-down lunch at one of the many restaurants like Drift, Donde Olga, or El Nuevo Acuario (among others) and enjoy fresh local seafood platters like whole-fried red snapper, shrimp-stuffed mofongo, or garlic mahi mahi. Or go kiosk-hopping (what locals call chinchorreo) and grab your first taste of Puerto Rican fritters like alcapurrias, bacalaítos, and piononos. Be sure to wash them down with an ice-cold beer or fresh fruit frappe. Change into your swimsuit  if you haven't already  and head over to La Posita, a quiet beach framed by a rock formation that creates a giant shallow tide pool. Spend the afternoon floating in the water, lounging on the sand snacking on fritters, and taking in that ocean breeze before heading to your accommodation.",
+        "Day 2 Dive Into Culture Your first day was pretty relaxing, so it's time to embrace Puerto Rican culture fully and have an immersive day of fun and learning in Old San Juan. The walled city is a must stop for every first-time visitor (and most repeat visitors as well). Explore 500-year old Spanish forts like the Castillo Z",
+        "Day 3  You're in Rincón, the surfing and sunset capital of Puerto Rico, so it only seems fitting to enjoy a day of laidback activities after a day of driving and sightseeing. Start your day at Barefoot Yoga, an open-air studio where you can take a gentle yoga class surrounded by nature. You don't have to make a reservation, although it is recommended if you want a private class tailored to special requests"
+      ],
+      "image": "https://cdn.mos.cms.futurecdn.net/w6MWNZtP6nTimHaTHCyZy6-1200-80.jpg",
+      "price": "800000",
+      "wishlist": false
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "wishlist": [
+
+  ]
 }
