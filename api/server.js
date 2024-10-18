@@ -1,31 +1,43 @@
-// See https://github.com/typicode/json-server#module
-const jsonServer = require('json-server')
+// Import required libraries
+const jsonServer = require('json-server');
+const { Low, JSONFile } = require('lowdb'); // Import JSONFile for file reading
+const fs = require('fs'); // File system module
+const path = require('path'); // Path module
 
-const server = jsonServer.create()
+const server = jsonServer.create();
 
-// Uncomment to allow write operations
-// const fs = require('fs')
-// const path = require('path')
-// const filePath = path.join('db.json')
-// const data = fs.readFileSync(filePath, "utf-8");
-// const db = JSON.parse(data);
-// const router = jsonServer.router(db)
+// Define the path to db.json
+const filePath = path.join(__dirname, '../db.json');
 
-// Comment out to allow write operations
-const router = jsonServer.router('db.json')
+// Create an in-memory database
+const db = new Low(new JSONFile(filePath)); // Use JSONFile to read from db.json
 
-const middlewares = jsonServer.defaults()
+// Initialize the database with data from db.json
+async function initDb() {
+    await db.read(); // Read the existing data from db.json
+    db.data ||= { users: [], posts: [] }; // Initialize structure if db.json is empty
+    await db.write(); // Write to in-memory database
+}
 
-server.use(middlewares)
+// Call the initialization function
+initDb();
+
+// Create a router based on the loaded database
+const router = jsonServer.router(db.data); // Pass the in-memory data
+
+const middlewares = jsonServer.defaults();
+
+server.use(middlewares);
 // Add this before server.use(router)
 server.use(jsonServer.rewriter({
     '/api/*': '/$1',
     '/blog/:resource/:id/show': '/:resource/:id'
-}))
-server.use(router)
+}));
+
+server.use(router);
 server.listen(3000, () => {
-    console.log('JSON Server is running')
-})
+    console.log('JSON Server is running');
+});
 
 // Export the Server API
-module.exports = server
+module.exports = server;
